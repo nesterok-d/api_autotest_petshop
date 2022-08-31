@@ -1,5 +1,7 @@
+package pages;
+
 public enum Status {
     available,
-    unavailable
-
+    pending,
+    sold
 }
